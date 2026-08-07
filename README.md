@@ -59,8 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0268-missing-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0268-missing-number) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
