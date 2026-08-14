@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0015-3sum) |
+| [0239-sliding-window-maximum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0904-fruit-into-baskets) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0930-binary-subarrays-with-sum) |
@@ -78,4 +80,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0125-valid-palindrome) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
