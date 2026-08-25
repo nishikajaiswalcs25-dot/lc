@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0904-fruit-into-baskets) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
