@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0904-fruit-into-baskets) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0930-binary-subarrays-with-sum) |
 ## Sliding Window
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
