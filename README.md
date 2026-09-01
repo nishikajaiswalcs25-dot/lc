@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0643-maximum-average-subarray-i) |
@@ -35,17 +36,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0125-valid-palindrome) |
+| [0349-intersection-of-two-arrays](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0930-binary-subarrays-with-sum) |
@@ -68,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0540-single-element-in-a-sorted-array) |
