@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0441-arranging-coins) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/3875-construct-uniform-parity-array-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0342-power-of-four) |
 ## Enumeration
 |  |
 | ------- |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0215-kth-largest-element-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
