@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0441-arranging-coins) |
+| [1486-xor-operation-in-an-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1486-xor-operation-in-an-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0342-power-of-four) |
+| [1486-xor-operation-in-an-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1486-xor-operation-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
