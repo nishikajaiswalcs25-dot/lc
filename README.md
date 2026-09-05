@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1051-height-checker) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1470-shuffle-the-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1929-concatenation-of-array) |
