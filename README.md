@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1486-xor-operation-in-an-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
