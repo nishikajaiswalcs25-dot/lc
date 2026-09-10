@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1486-xor-operation-in-an-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0918-maximum-sum-circular-subarray) |
 ## Newton's Method
