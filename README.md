@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0268-missing-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0441-arranging-coins) |
