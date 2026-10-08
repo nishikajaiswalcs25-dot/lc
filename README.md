@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1552-magnetic-force-between-two-balls) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1678-goal-parser-interpretation) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Queue
 |  |
 | ------- |
