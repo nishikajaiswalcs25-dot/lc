@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0383-ransom-note) |
 | [1108-defanging-an-ip-address](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1108-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1678-goal-parser-interpretation) |
 ## Queue
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0011-container-with-most-water) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Quickselect
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0383-ransom-note) |
 | [1051-height-checker](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1051-height-checker) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Bubble Sort
 |  |
 | ------- |
