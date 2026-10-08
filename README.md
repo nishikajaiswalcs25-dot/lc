@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0349-intersection-of-two-arrays) |
+| [1768-merge-strings-alternately](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1678-goal-parser-interpretation) |
+| [1768-merge-strings-alternately](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Queue
 |  |
