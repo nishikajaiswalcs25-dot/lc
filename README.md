@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1552-magnetic-force-between-two-balls) |
 | [1816-truncate-sentence](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1816-truncate-sentence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1920-build-array-from-permutation](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/3875-construct-uniform-parity-array-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0657-robot-return-to-origin) |
+| [1920-build-array-from-permutation](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
