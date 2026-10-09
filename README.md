@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1552-magnetic-force-between-two-balls) |
+| [1816-truncate-sentence](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1816-truncate-sentence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1768-merge-strings-alternately) |
+| [1816-truncate-sentence](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Queue
 |  |
