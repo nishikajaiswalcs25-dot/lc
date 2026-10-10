@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2315-count-asterisks](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/2315-count-asterisks) |
 ## Queue
 |  |
 | ------- |
