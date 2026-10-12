@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0918-maximum-sum-circular-subarray) |
+| [0922-sort-array-by-parity-ii](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1051-height-checker) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0349-intersection-of-two-arrays) |
+| [0922-sort-array-by-parity-ii](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0349-intersection-of-two-arrays) |
+| [0922-sort-array-by-parity-ii](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1051-height-checker) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1552-magnetic-force-between-two-balls) |
 ## Hash Table
