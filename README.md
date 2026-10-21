@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1552-magnetic-force-between-two-balls) |
+| [1572-matrix-diagonal-sum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1572-matrix-diagonal-sum) |
 | [1816-truncate-sentence](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1816-truncate-sentence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1920-build-array-from-permutation](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1920-build-array-from-permutation) |
@@ -265,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
