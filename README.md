@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1534-count-good-triplets](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1534-count-good-triplets) |
+| [1550-three-consecutive-odds](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1572-matrix-diagonal-sum) |
 | [1816-truncate-sentence](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1816-truncate-sentence) |
