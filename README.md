@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1051-height-checker) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1470-shuffle-the-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
