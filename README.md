@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0509-fibonacci-number) |
 ## Counting Sort
@@ -296,5 +297,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
