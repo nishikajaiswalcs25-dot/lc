@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1929-concatenation-of-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## String
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2315-count-asterisks](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/2315-count-asterisks) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Queue
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/nishikajaiswalcs25-dot/lc/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bracket Sequences
 |  |
 | ------- |
